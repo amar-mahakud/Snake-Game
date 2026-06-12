@@ -107,3 +107,7 @@ SnakeGame.exe
 ## License
 
 This project is open source and free to use for learning and personal projects.
+
+Author Amar
+
+Developed as part of the Thiranex Internship Program.
